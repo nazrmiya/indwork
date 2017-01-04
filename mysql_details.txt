@@ -1,0 +1,15 @@
+hJ?omtrj1nuH
+
+https://www.youtube.com/watch?v=Sy-owOINBrI
+
+mysql -u root -p
+> Prince.321
+
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'Prince.321';
+
+CREATE DATABASE custom;
+
+CREATE USER 'custom'@'localhost' IDENTIFIED BY 'Password.321';
+
+
+ 

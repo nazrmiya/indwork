@@ -1,0 +1,13 @@
+http://www.tecmint.com/install-git-to-create-and-share-your-own-projects-on-github-repository/
+
+https://github.com/nazrmiya/indwork
+nazrmiya/Nazrmiya.321
+
+Complete!
+[root@s132-148-68-192 prince]# git --version
+git version 2.5.5
+[root@s132-148-68-192 prince]# git config --global user.name "nazrmiya"
+[root@s132-148-68-192 prince]# git config --global user.eamil "nazrul.firoza@gmail.com"
+
+[root@s132-148-68-192 Git]# git remote add origin git@github.com:nazrmiya/indwork.git
+

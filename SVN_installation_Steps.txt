@@ -1,0 +1,17 @@
+Installing SVN on Fedora 23
+----------------------------------
+https://www.if-not-true-then-false.com/2010/install-svn-subversion-server-on-fedora-centos-red-hat-rhel/
+
+https://wiki.centos.org/HowTos/Subversion
+
+htpasswd -cm /etc/svn-auth-users testuser
+Password> Indwork.321
+
+htpasswd -m /etc/svn-auth-users nazrmiya
+Password> Nazrmiya.321
+
+testuser/testuser
+svnadmin create indWorkRepo
+/var/www/svn
+
+Nmiya_Jan@2017
